@@ -1,9 +1,9 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vspok&show_icons=true&theme=radical)
+<!--### Ola, Sou Vitor Gabriel 👋-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vspok&show_icons=true&theme=radical)
 
 ![Oregand's gitlab stats](https://gitlab-readme-stats.vercel.app/api?username=oregand&show_icons=true)
 
-
+-->
 <!--
 **vspok/vspok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
