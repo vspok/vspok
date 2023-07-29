@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Claro! Vou fornecer o texto utilizando a linguagem de marcação Markdown e, em seguida, uma versão em inglês.
-
-### Versão em Português:
-
 ## Sobre mim:
 
 Olá! Sou o Vitor Dias, também conhecido como Spok. Sou um desenvolvedor FullStack apaixonado por criar plataformas incríveis, desde o processo de seleção das tecnologias até o deploy das aplicações.
