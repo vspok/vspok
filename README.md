@@ -25,9 +25,11 @@ Olá! Sou o Vitor Dias, também conhecido como Spok. Sou um desenvolvedor FullSt
 
 ### Tecnologias que utilizo:
 
-- **Backend:** Minha principal escolha é o Node.js com o framework Nest.js. Acredito que essa combinação proporciona uma arquitetura sólida e escalável para o desenvolvimento de APIs e serviços.
+- **Backend:** Minha principal escolha é o Node.js com o framework Nest.js. Acredito que essa combinação proporciona uma arquitetura sólida e escalável para o desenvolvimento de APIs e serviços. ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?logo=nestjs&logoColor=white&style=flat)
 
-- **Frontend:** Sou fã de TypeScript e o utilizo juntamente com o framework Angular. Essa poderosa combinação me permite criar interfaces de usuário interativas e responsivas.
+- **Frontend:** Sou fã de TypeScript e o utilizo juntamente com o framework Angular. Essa poderosa combinação me permite criar interfaces de usuário interativas e responsivas. ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat)
 
 ### Meu foco:
 
@@ -41,10 +43,8 @@ Ao longo da minha jornada como desenvolvedor, contribuí em diversos projetos in
 
 Se você deseja entrar em contato comigo para discutir oportunidades de colaboração, tirar dúvidas ou apenas bater um papo sobre desenvolvimento, fique à vontade para enviar um e-mail para vitor.devstroupe@gmail.com ou me encontrar nas redes sociais:
 
-- LinkedIn: [linkedin.com/in/vitorggdias](https://www.linkedin.com/in/vitorggdias)
-- GitHub: [github.com/vspok](https://github.com/vspok)
-- GitLab: [gitlab.com/vspok](https://gitlab.com/vspok)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/vitorggdias)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/vspok)
+- [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)](https://gitlab.com/vspok)
 
 Estou animado para continuar crescendo como desenvolvedor e contribuir para projetos que impactam positivamente a comunidade. Obrigado por visitar meu perfil do GitHub!
-
----
