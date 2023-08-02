@@ -41,15 +41,17 @@ Com certeza! Vou melhorar o texto referente aos seus projetos:
 
 Durante minha jornada como desenvolvedor, tive a oportunidade de contribuir em diversos projetos interessantes e desafiadores. Embora a maioria deles não esteja listada aqui, posso destacar alguns trabalhos significativos, como:
 
-- Desenvolvimento de plataforma de e-commerce com integração de pagamentos através do Multibanco e Multilojas.
-- Criação de um marketplace que conecta compradores e vendedores de forma eficiente e segura.
+- Desenvolvimento de plataforma de e-commerce com Multibanco, Multilojas, gerenciamento de modulos e varias integrações.
+- Criação de um marketplace que conecta compradores e vendedores.
 - Implementação de sistemas de gestão financeira para controle e análise de dados financeiros.
 - Desenvolvimento de ERPs (Enterprise Resource Planning) personalizados para otimizar processos empresariais.
 - Criação de integrações entre diferentes plataformas, garantindo a comunicação eficiente entre sistemas distintos.
-- Desenvolvimento de APIs de e-mail para automatização de envios e notificações.
+- Desenvolvimento de APIs de e-mail e WhatSapp para automatização de envios e notificações.
 - Integrações com APIs de terceiros para ampliar as funcionalidades e recursos dos projetos.
 
-Fique à vontade para explorar meus repositórios para conhecer mais sobre o meu trabalho e outros projetos que não estão mencionados aqui.
+Infelizmente, nem todos esses projetos estão disponíveis neste perfil de repositórios. Alguns deles podem ser privados ou estar em outras plataformas. No entanto, estou sempre em busca de novos desafios e oportunidades de colaboração.
+
+Fique à vontade para entrar em contato comigo para saber mais sobre meus projetos anteriores e discutir novas possibilidades de colaboração.
 
 ### Contato:
 
