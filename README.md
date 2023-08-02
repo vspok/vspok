@@ -35,9 +35,21 @@ Olá! Sou o Vitor Dias, também conhecido como Spok. Sou um desenvolvedor FullSt
 
 Estou constantemente em busca de aprimorar minhas habilidades técnicas e expandir meus conhecimentos. Além disso, adoro trabalhar em equipe, compartilhar ideias e aprender com outros desenvolvedores.
 
+Com certeza! Vou melhorar o texto referente aos seus projetos:
+
 ### Projetos:
 
-Ao longo da minha jornada como desenvolvedor, contribuí em diversos projetos interessantes e desafiadores. Sinta-se à vontade para explorar meus repositórios para conhecer mais sobre o meu trabalho.
+Durante minha jornada como desenvolvedor, tive a oportunidade de contribuir em diversos projetos interessantes e desafiadores. Embora a maioria deles não esteja listada aqui, posso destacar alguns trabalhos significativos, como:
+
+- Desenvolvimento de plataforma de e-commerce com integração de pagamentos através do Multibanco e Multilojas.
+- Criação de um marketplace que conecta compradores e vendedores de forma eficiente e segura.
+- Implementação de sistemas de gestão financeira para controle e análise de dados financeiros.
+- Desenvolvimento de ERPs (Enterprise Resource Planning) personalizados para otimizar processos empresariais.
+- Criação de integrações entre diferentes plataformas, garantindo a comunicação eficiente entre sistemas distintos.
+- Desenvolvimento de APIs de e-mail para automatização de envios e notificações.
+- Integrações com APIs de terceiros para ampliar as funcionalidades e recursos dos projetos.
+
+Fique à vontade para explorar meus repositórios para conhecer mais sobre o meu trabalho e outros projetos que não estão mencionados aqui.
 
 ### Contato:
 
