@@ -55,7 +55,7 @@ Fique à vontade para entrar em contato comigo para saber mais sobre meus projet
 
 ### Contato:
 
-Se você deseja entrar em contato comigo para discutir oportunidades de colaboração, tirar dúvidas ou apenas bater um papo sobre desenvolvimento, fique à vontade para enviar um e-mail para vitor.devstroupe@gmail.com ou me encontrar nas redes sociais:
+Se você deseja entrar em contato comigo para discutir oportunidades de colaboração, tirar dúvidas ou apenas bater um papo sobre desenvolvimento, fique à vontade para enviar um e-mail para vitor@devstroupe.com ou me encontrar nas redes sociais:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/vitorggdias)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/vspok)
