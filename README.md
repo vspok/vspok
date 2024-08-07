@@ -64,4 +64,4 @@ Se você deseja entrar em contato comigo para discutir oportunidades de colabora
 Estou animado para continuar crescendo como desenvolvedor e contribuir para projetos que impactam positivamente a comunidade. Obrigado por visitar meu perfil do GitHub!
 
 ### Wakatime
-https://wakatime.com/badge/user/c142aa79-b790-4f49-98dd-118f446ede6b.svg
+[![wakatime](https://wakatime.com/badge/user/c142aa79-b790-4f49-98dd-118f446ede6b.svg)](https://wakatime.com/@c142aa79-b790-4f49-98dd-118f446ede6b)
