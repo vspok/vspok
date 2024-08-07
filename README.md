@@ -62,3 +62,6 @@ Se você deseja entrar em contato comigo para discutir oportunidades de colabora
 - [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)](https://gitlab.com/vspok)
 
 Estou animado para continuar crescendo como desenvolvedor e contribuir para projetos que impactam positivamente a comunidade. Obrigado por visitar meu perfil do GitHub!
+
+### Wakatime
+[![wakatime](https://wakatime.com/badge/user/c142aa79-b790-4f49-98dd-118f446ede6b.svg)](https://wakatime.com/@c142aa79-b790-4f49-98dd-118f446ede6b)
