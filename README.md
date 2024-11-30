@@ -35,7 +35,6 @@ Olá! Sou o Vitor Dias, também conhecido como Spok. Sou um desenvolvedor FullSt
 
 Estou constantemente em busca de aprimorar minhas habilidades técnicas e expandir meus conhecimentos. Além disso, adoro trabalhar em equipe, compartilhar ideias e aprender com outros desenvolvedores.
 
-Com certeza! Vou melhorar o texto referente aos seus projetos:
 
 ### Projetos:
 
