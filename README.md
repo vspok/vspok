@@ -58,7 +58,7 @@ Se você deseja entrar em contato comigo para discutir oportunidades de colabora
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/vitorggdias)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/vspok)
-- [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)](https://gitlab.com/vspok)
+- [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)](https://gitlab.com/vspok) [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white&style=flat)](https://gitlab.com/vitor.dias.predialize)
 
 Estou animado para continuar crescendo como desenvolvedor e contribuir para projetos que impactam positivamente a comunidade. Obrigado por visitar meu perfil do GitHub!
 
